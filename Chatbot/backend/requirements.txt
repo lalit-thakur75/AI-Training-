@@ -1,0 +1,12 @@
+fastapi[standard]
+uvicorn
+pydantic
+pydantic-settings
+sqlalchemy
+psycopg2-binary
+pgvector
+python-multipart
+python-dotenv
+openai
+requests
+google-generativeai

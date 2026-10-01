@@ -1,0 +1,84 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# =========================
+# Environment & API Secrets
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# Node / React
+# =========================
+node_modules/
+dist/
+build/
+.next/
+.vite/
+
+# =========================
+# Local databases
+# =========================
+*.db
+*.sqlite
+*.sqlite3
+
+# =========================
+# User uploaded / generated files
+# =========================
+uploads/
+temp/
+tmp/
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# Python testing / cache
+# =========================
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+*.code-workspace
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Secrets / Credentials
+# =========================
+secrets/
+credentials/
+*.pem
+*.key
+
+# =========================
+# Build / cache
+# =========================
+.cache/
+*.tmp
