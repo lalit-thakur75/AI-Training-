@@ -1,0 +1,9 @@
+{
+    "students": [
+    {"student_name":"Rahul","days_present":42,"total_days":50},
+    {"student_name":"Priya","days_present":45,"total_days":50},
+    {"student_name":"Aman","days_present":38,"total_days":50},
+    {"student_name":"Sneha","days_present":47,"total_days":50},
+    {"student_name":"Arjun","days_present":40,"total_days":50}
+    ]
+}
